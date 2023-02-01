@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.10.0"
+  }
+}
